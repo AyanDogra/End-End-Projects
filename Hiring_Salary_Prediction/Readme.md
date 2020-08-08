@@ -11,3 +11,5 @@ This project has four major parts:-
 ## Project Deployement
 This project can be deployed locally at URL: http://localhost:5000 and has been deployed on heroku at:https://salary-prediction-101.herokuapp.com
 
+![Alt text](https://github.com/AyanDogra/End-End-Projects/blob/master/Hiring_Salary_Prediction/static/Hiring_Prediction.png "Optional title")
+
