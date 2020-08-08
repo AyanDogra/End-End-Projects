@@ -9,5 +9,5 @@ This project has four major parts:-
 * Procfile and requirements.txt- These are required for deployement to Heroku
 
 ## Project Deployement
-This project can be deployed locally at URL: http://localhost:5000 and has been deployed on heroku at:https://salary-prediction-101.herokuapp.com/predict
+This project can be deployed locally at URL: http://localhost:5000 and has been deployed on heroku at:https://salary-prediction-101.herokuapp.com
 
