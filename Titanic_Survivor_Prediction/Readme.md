@@ -20,5 +20,5 @@ The data has been taken from kaggle
 The project can be deployed on local machine by downloading it and running app.py in the command line at: http://127.0.0.1:5000/ 
 The project has been deployed online on heroku at:https://titanic-survivors-prediction.herokuapp.com/
 
-![Alt text](https://github.com/AyanDogra/End-End-Projects/blob/master/Hiring_Salary_Prediction/static/Hiring_Prediction.png "Optional title")
+![Alt text](https://github.com/AyanDogra/End-End-Projects/blob/master/Titanic_Survivor_Prediction/static/Screenshot%202020-08-12%20at%2011.01.50%20PM.png "Optional title")
 
