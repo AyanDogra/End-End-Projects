@@ -7,3 +7,6 @@ In this I predict the salary for different employees
 
 ## Micro Blogging Site
 This project uses Flask basics from making web pages to deployement 
+
+## Titanic Survival Prediction 
+Predict your chances of Surviving the epic disaster
